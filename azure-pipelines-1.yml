@@ -23,4 +23,4 @@ steps:
 
 - task: BatchScript@1
   inputs:
-    filename: 'C:\WINDOWS\system32\notepad.exe'
+    filename: 'E:\GCD-dev-binaries\GeoCamDeveloper\GeoCam-Developer.exe'
